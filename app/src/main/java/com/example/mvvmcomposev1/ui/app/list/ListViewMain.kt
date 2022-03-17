@@ -18,8 +18,8 @@ import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
-import com.vyns.mvvmjetpackcomposesample.data.model.MovieItem
-import com.vyns.mvvmjetpackcomposesample.ui.viewmodel.MainViewModel
+import com.example.mvvmcomposev1.data.model.MovieItem
+import com.example.mvvmcomposev1.viewmodel.MainViewModel
 
 
 @ExperimentalFoundationApi

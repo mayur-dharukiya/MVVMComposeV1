@@ -17,8 +17,8 @@ import androidx.compose.ui.unit.dp
 import androidx.navigation.NavController
 import coil.transform.CircleCropTransformation
 import com.google.accompanist.coil.rememberCoilPainter
-import com.vyns.mvvmjetpackcomposesample.data.model.MovieItem
-import com.vyns.mvvmjetpackcomposesample.utils.Constants
+import com.example.mvvmcomposev1.data.model.MovieItem
+import com.example.mvvmcomposev1.utils.Constants
 
 @Composable
 fun ListViewItem(
